@@ -59,9 +59,15 @@ Key Learnings:
       
       Used Heroku to deploy the server.
       
+      Deployment of a monorepository.
+      
       Used variable URLs so the site will run both online and locally.
       
       Using OG meta tags to format the website thumbnail attractively.
+      
+    Tailwind:
+      
+      General usage of Tailwind and it's pros and cons.
       
 
 
